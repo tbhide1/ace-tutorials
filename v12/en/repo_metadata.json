@@ -45,7 +45,7 @@
           "iibVersions": "12.*-12.*",
           "shortDesc": "Learn how to create a simple message flow using OPC-UA-Input node for subsribing to alarmas and events from an OPC server.",
           "detailsURL": "https://ot4i.github.io/acmfg-opc-ua-input-tutorial/v12/en/details.html",
-          "stepsURL": "https://tbhide1.github.io/tbhide1/v12/en/data.json",
+          "stepsURL": "https://tbhide1.github.io/ace-tutorials/v12/en/#/./tutorials/tbhide1",
           "zipURL": "https://github.com/ot4i/acmfg-opc-ua-input-tutorial/releases/download/v3.1/PI_OPCUAINPUT.zip",
           "barFile": "",
           "visible": "true",
