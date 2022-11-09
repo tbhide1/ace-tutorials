@@ -39,6 +39,34 @@
             }
           ]
         },
+		{
+          "name": "App Connect for Manufacturing - Using the OPC-UA-Input node to subscribe to  alarms and events data from an OPC Server",
+          "version": "1.0",
+          "iibVersions": "12.*-12.*",
+          "shortDesc": "Learn how to create a simple message flow using OPC-UA-Input node for subsribing to alarmas and events from an OPC server.",
+          "detailsURL": "https://ot4i.github.io/acmfg-opc-ua-input-tutorial/v12/en/details.html",
+          "stepsURL": "https://tbhide1.github.io/tbhide1/v12/en/data.json",
+          "zipURL": "https://github.com/ot4i/acmfg-opc-ua-input-tutorial/releases/download/v3.1/PI_OPCUAINPUT.zip",
+          "barFile": "",
+          "visible": "true",
+          "tags": "Manufacturing;OPCUA",
+          "isPattern": "false",
+          "isFavorite": "true",
+          "projects": "App_OPCUA_Control:App_OPCUA_Input",
+          "editorResPaths": [
+            {
+              "id": "MainFlow",
+              "editor": "flow",
+              "wspath": "<workspace>/App_OPCUA_Input/Flow_OPCUA_Input.msgflow"
+            }
+          ],
+          "deployedResources": [
+            {
+              "type": "application",
+              "path": "App_OPCUA_Input"
+            }
+          ]
+        },
         {
           "name": "Getting started - Creating an Integration Server",
           "version": "1.0",
