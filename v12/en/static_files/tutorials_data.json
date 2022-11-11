@@ -28981,7 +28981,7 @@
       }
     }
   },
-  "App Connect for Manufacturing - Using the OPC-UA-Input node to subscribe to alarms and events data from an OPC Server": {
+  "App Connect for Manufacturing - Using the OPC-UA-Input nodes to subscribe to alarms and events data from an OPC Server": {
     "version": "0.1",
     "pageContent": {
       "_comments": "object that contains data for page labels, buttons, etc.",
@@ -29007,7 +29007,7 @@
     },
     "tutorial": {
       "_common": {
-        "name": "App Connect for Manufacturing - Using the OPC-UA-Input node to subscribe to alarms and events from an OPC Server",
+        "name": "App Connect for Manufacturing - Using the OPC-UA-Input nodes to subscribe to alarms and events from an OPC Server",
         "shortDescription": "Learn how to create a simple message flow by using the OPC-UA-Input node to to subscribe to alarms and events from an OPC server. This tutorial requires an installation of App Connect for Manufacturing.",
         "durationText": "This tutorial takes approximately",
         "durationTime": "10 minutes",
